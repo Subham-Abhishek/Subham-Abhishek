@@ -2,7 +2,7 @@
     <img src="https://coindsyz.com/wp-content/uploads/2021/05/1584023795.gif" width="60%" title="Intro Card" alt="Intro Card">
   </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Subham Abhishek Jaiswal</h1>
 <h3 align="center">I am Web Devloper. Strong in design and integration with intuitive problem-solving skills. Proficient in React, Javascript. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as a web developer with a reputed firm driven by technology.</h3>
 
 
@@ -69,8 +69,6 @@
   <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Subham-Abhishek&show_icons=true&locale=en&layout=compact" alt="dev-saj" />
     </p>
-  
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
