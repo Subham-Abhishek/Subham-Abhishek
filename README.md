@@ -3,7 +3,7 @@
   </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Subham Abhishek Jaiswal</h1>
-<h3 align="center">I am Web Devloper. Strong in design and integration with intuitive problem-solving skills. Proficient in React, Javascript. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as a web developer with a reputed firm driven by technology.</h3>
+<h3 align="center">I am an Analytical and detail-oriented aspiring Full Stack Web Developer. Capable of writing production ready code using ReactJS, Redux and CSS on the frontend, NodeJS, Express and MongoDB on the backend to build single page applications. Passionate about coding and strongly interested in working as a web developer.</h3>
 
 
 
