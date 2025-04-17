@@ -32,7 +32,7 @@
 
 👯 I’m looking to collaborate for different Hackathons
 
-📫 You can reach me at [chat](https://www.linkedin.com/in/subham-abhishek/) 
+📫 You can reach me at [chat](www.linkedin.com/in/dev-saj) 
 
 ---
 
